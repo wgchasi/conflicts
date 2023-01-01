@@ -1,2 +1,1 @@
-# second-branch
-Testing merge conflicts
+# first-branch
