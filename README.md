@@ -1,2 +1,2 @@
-# conflicts
+# second-branch
 Testing merge conflicts
