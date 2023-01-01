@@ -1,0 +1,2 @@
+# conflicts
+Testing merge conflicts
